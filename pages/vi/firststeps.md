@@ -17,9 +17,9 @@ The goal of OLE is to provide educational infrastructure to learners and educato
 ### Hardware requirement:
 1.  Raspberry Pi 4 ([Pi 4 information](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/))
 	- Raspberry Pi 3B/3B+ also work, but Pi 4 is recommended
-2.  Power cord for the Pi
-	- Standard USB-C power cord: 3.0A for Pi 4
-	- Micro USB power cord: 2.5A for Pi 3B/3B+
+2.  Power supply for the Pi
+	- Pi 4: minimum 3.0A, Standard USB-C port
+	- Pi 3B/3B+: minimum 2.5A, Micro USB port
 3.  3 microSD cards
 	- Minimum 16GB
 	- U1 or Class 10 required
@@ -126,7 +126,7 @@ Follow the [Nextcloud and Tor Tutorial](nextcloud-tor.md) to set up the Nextclou
 In this step we will adopt the motto of "Practice makes Perfect". You will follow the same steps as in **Step 6**, continuing to improve this Markdown Wiki so that it is educational, yet easy to understand for future interns.
 
 You should: 
-* Add comments to three issues other other than your own (somebody else's issue)
+* Add comments to three issues other than your own (somebody else's issue)
 * Create three new issues (in addition to those you have already created in previous steps)
 	* Get approval to work on the issues you have created **Make sure someone from the System's team confirms that you should work on the isseue, BEFORE you start to work on it** 
 * Resolve the three issues by making the necessary changes in your repo with three separate pull requests. 
@@ -142,7 +142,7 @@ Just as your learning with this Wiki was made possible by the efforts of previou
    * 4 comments made on *issues you didn't create* (one at step 6 and three at step 8)
    * 4 issues created (one at step 6 and three at step 8)
 
-**NOTE**: You can track your progress with the number of pull requests and issues [here](vtrack-progress.md).
+**NOTE**: You can track your progress with the number of pull requests and issues [here](trackprogress.md).
 
 ## Step 9 - Be part of the team
 
